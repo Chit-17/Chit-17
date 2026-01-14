@@ -10,7 +10,7 @@ Sure! Here’s a cleaner, more polished rewrite that looks great on a GitHub pro
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://facebook.com/ChitrankKeni)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/chitrankkeni)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](www.linkedin.com/in/chitrank-keni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chitrank-keni/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/users/32133301)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:chitrangkeni17@gmail.com)
 
